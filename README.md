@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Arty-lotbrok
-- 👀 I’m interested in: Programação,informática
-- 🌱 I’m currently: learning Programação
+- :fleur_de_lis: Hi, I’m @Arty-lotbrok
+- :star2: I’m interested in: Programação,informática
+- :maple_leaf: I’m currently: learning Programação
 - 
-- 📫 How to reach me: Entrar no perfil da professora "Marga"
+- :city_sunset:How to reach me: Entrar no perfil da professora "Marga"
 
 
